@@ -13,7 +13,7 @@ while i < panjang_data:
     total+=data_nilai[i]
     i+=1
 
-#while True:
+
 
 
 print(total/panjang_data)
