@@ -10,4 +10,5 @@ while(True):
         print('saldo tidak cukup')
         print('sisa saldo', sisa+pengeluaran)
         break
+    
 
