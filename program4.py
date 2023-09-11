@@ -5,5 +5,5 @@ for data in range(banyak_data):
     nilai=int(input(f"masukkan data ke {data}: "))
     total+=nilai
 
-print(total/banyak_data)
+print(f"rata-rata= {total/banyak_data}")
 
